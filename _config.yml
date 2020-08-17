@@ -1,7 +1,7 @@
 # global settings
 title: "Harvard PL/HCI Graduate Seminar"
 description: "Making communicating with computers more accessible: easier, faster, and safer"
-url: "pl-hci-seminar.seas.harvard.edu" # the base hostname & protocol for your site, e.g. http://example.com
+url: "ai-hci-seminar.seas.harvard.edu" # the base hostname & protocol for your site, e.g. http://example.com
 
 # build settings
 exclude: ["readme.md"]
